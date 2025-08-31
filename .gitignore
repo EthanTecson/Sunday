@@ -1,1 +1,5 @@
 .env
+courses/*/persist/
+.venv/
+*.env
+.DS_Store
